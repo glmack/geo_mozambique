@@ -2,7 +2,7 @@
 
 ### Geo Mozambique
 
-# Conduct geospatial analysis of Mozambique satellite data across range of two cyclones in 2019
+Conduct geospatial analysis of Mozambique satellite data across range of two cyclones in 2019
 
 ### Value
 
