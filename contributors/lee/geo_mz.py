@@ -15,6 +15,7 @@ def request_opendata_event(event_name):
     return html
 
 def get_opendata_links(html, filename):
+    from bs4 import BeautifulSoup
     soup = BeautifulSoup(html.text, "html.parser")
     for link in soup.find_all('a'):
         href = link['href']
